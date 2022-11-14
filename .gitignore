@@ -138,3 +138,8 @@ dmypy.json
 
 # Cython debug symbols
 cython_debug/
+randomsearch/currentDet/
+randomsearch/ExperimentTempFiles/
+randomsearch/Experiment/detectionPara.py
+randomsearch/*.json
+randomsearch/*.csv
